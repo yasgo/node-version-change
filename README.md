@@ -18,6 +18,7 @@ npm install
 
 ```
 nvm i 11.15.0
+nvm use 11.15.0
 rm -r node_modules
 rm -r package-lock.json
 npm cache clean / npm cache clean --force
